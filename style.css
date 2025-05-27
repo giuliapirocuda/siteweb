@@ -60,7 +60,6 @@ header p {
     font-size: 1.1em;
     padding: 0 20px;
     margin-bottom: 15px;
-    background-color: aqua;
 }
 
 /* Navigation Styles */
@@ -111,6 +110,7 @@ main {
     margin-bottom: 15px;
     border-bottom: 2px solid #ccc;
     padding-bottom: 5px;
+    background-color: aqua;
 }
 
 .conteudo h3 {
