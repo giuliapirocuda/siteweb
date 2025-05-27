@@ -109,15 +109,15 @@ main {
 .conteudo h2 {
     font-size: 2em;
     margin-bottom: 15px;
-  
+    border-bottom: 2px solid #ccc;
     padding-bottom: 5px;
-    background-color: aqua;
 }
 
 .conteudo h3 {
     font-size: 1.2em;
     margin-top: 20px;
     margin-bottom: 10px;
+    background-color: aqua;
 }
 
 .conteudo p {
