@@ -59,7 +59,8 @@ header h1 {
 header p {
     font-size: 1.1em;
     padding: 0 20px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
+    background-color: aqua;
 }
 
 /* Navigation Styles */
