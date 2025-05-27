@@ -36,7 +36,7 @@ header {
 }
 
 header h1 {
-    font-size: 2em;
+    font-size: 6em;
     margin-bottom: 10px;
 }
 
@@ -98,7 +98,7 @@ main {
 }
 
 .conteudo {
-    background-color: #cb1010;
+    background-color: #f6efef;
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 8px;
